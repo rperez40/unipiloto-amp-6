@@ -1,0 +1,44 @@
+Cuerpo {
+    Fuente-familia : " Lucida Blackletter " , " Arial Black " , sans-serif ;
+    Color : # 000 ;
+    Color de fondo : #FFFFFF ;
+}
+
+Etiqueta {
+    Display : inline-block ; S
+    Ancho : 140 px ;
+    Font-weight : bold ;
+}
+
+Entrada [ type = " text " ] {
+    Ancho : 250 px ;
+}
+
+ Etiqueta fieldset {
+    Font-weight : normal ;
+    Anchura : auto ;
+}
+
+Fieldset {
+    Margen : 0 ;
+    Relleno : 0 ;
+    Frontera : ninguno ;
+}
+
+Leyenda {
+    Font-weight : bold ;
+    Padding-left : 0 ;
+}
+
+Label [ for = " region " ], label [ for = " ideas " ] {
+    Anchura : auto ;
+}
+
+Área de texto {
+    Altura : 100 px ;
+    Ancho : 300 px ;
+}
+
+Formulario {
+    Margen izquierda : 60 px ;
+}
